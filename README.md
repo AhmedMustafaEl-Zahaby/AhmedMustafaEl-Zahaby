@@ -5,7 +5,7 @@
 ## <picture><img src = "https://github.com/AhmedMustafaEl-Zahaby/AhmedMustafaEl-Zahaby/blob/main/images/about_me.gif?raw=true" width = 50px></picture> About me
 <picture> <img align="right" src="https://github.com/AhmedMustafaEl-Zahaby/AhmedMustafaEl-Zahaby/blob/main/images/Right_Side.gif?raw=true" width = 250px></picture>
 
-- I 'm a `Junior` at [Faculty of Engineering Computer Science Department at Al-Azhar University](https://eng-azhar.net/).
+- 🏫 I 'm a `Junior` at [Faculty of Engineering Computer Science Department at Al-Azhar University](https://eng-azhar.net/).
 - 💻 Software engineer at [bld.ai](https://bld.ai) (US-based software house).
 - 🔥 Passionate about Competitive Programming and software development
 - 📈 Ranked 6th in class with 84% in last 4 years of college
