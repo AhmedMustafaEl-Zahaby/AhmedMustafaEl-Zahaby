@@ -8,7 +8,6 @@
 - 🏫 I 've graduated from [Faculty of Engineering Computer Science Department at Al-Azhar University](https://eng-azhar.net/) with B+ (80.91%) and ranked 13th in my batch.
 - 💻 Software engineer at [bld.ai](https://bld.ai) (US-based software house).
 - 🔥 Passionate about Competitive Programming and software development
-- 📈 Ranked 6th in class with 84% in last 4 years of college
 - 💼 Volunteered as Java instructor at GDSC Al-Azhar branch
 - 🌐 Experience in Full-Stack web page development
 - 💻 Experience with desktop applications development
